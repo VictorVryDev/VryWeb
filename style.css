@@ -9,7 +9,7 @@
 }
 
 :root{
-    --body-bg: #ffffff;
+    --body-bg: #fffefc;
     --body-color: #555;
     --button-bg: rgb(255, 255, 255);
 
@@ -26,7 +26,7 @@
 }
 
 .dark-mode:root {
-    --body-bg: #000000;
+    --body-bg: #030105;
     --body-color: #f8f8f8;
     --button-bg: rgb(0, 0, 0);
 
